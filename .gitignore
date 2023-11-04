@@ -1,0 +1,9 @@
+Temp/
+Library/
+Logs/
+MemoryCaptures/
+obj/
+UserSettings
+.vs
+SwitchIL2CPPCache/
+SwitchIL2CPPStats/
